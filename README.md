@@ -1,4 +1,4 @@
-# dentascan
+# Dental Diseases prediction mobile App
 
 A new Flutter project.
 
